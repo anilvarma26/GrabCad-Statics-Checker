@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/GrabCad-Statics-Checker.git
+git clone https://github.com/yourusername/GrabCad-Statistics-Checker.git
 Install the required dependencies:
 
 You can install the required Python libraries using pip:
