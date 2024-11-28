@@ -40,3 +40,5 @@ Example
 Enter a GrabCad username (e.g., john_doe) and click the "Get Profile" button to view their profile statistics such as the number of models, likes, and comments.
 Contribution
 Feel free to fork the repository, raise issues, or submit pull requests to improve the tool.
+
+added an exe file for ease of access of the statics viewer.
